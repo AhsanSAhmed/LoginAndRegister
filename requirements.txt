@@ -5,3 +5,5 @@ pymongo==3.12.1   # This is a stable version for Python 3.9
 bcrypt==3.2.2     # Compatible version for Python 3.9
 python-dotenv==0.21.0
 pyjwt==2.5.0      # Compatible version of PyJWT
+pymongo[srv]==3.12.1
+dnspython==2.2.1
