@@ -1,0 +1,7 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+pydantic==1.10.12  # Adjusted to match compatibility with FastAPI 0.95.1 and Python 3.9
+pymongo==3.12.1   # This is a stable version for Python 3.9
+bcrypt==3.2.2     # Compatible version for Python 3.9
+python-dotenv==0.21.0
+pyjwt==2.5.0      # Compatible version of PyJWT
